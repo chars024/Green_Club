@@ -9,7 +9,7 @@
     overflow: hidden;
 }
 .hero{
-    background-image: url("./imgPag/arcade.jpg");
+    background-image: url(./imgPag/arcade.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
